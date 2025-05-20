@@ -21,3 +21,5 @@ https://www.guru99.com/what-is-tensorflow.html
 https://dassum.medium.com/fine-tune-large-language-model-llm-on-a-custom-dataset-with-qlora-fb60abdeba07
 
 https://www.datacamp.com/tutorial/fine-tuning-large-language-models
+
+https://www.promptingguide.ai/introduction/examples
